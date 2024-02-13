@@ -12,14 +12,32 @@ a fast and easy way to create desktop applications with graphical interfaces[1].
 #### Purpose:
    Tkinter serves the purpose of creating graphical user interfaces for Python
 applications. It allows developers to create window, dialogs, buttons, menus, and
-other GUI elements to build interactive applications.
+other GUI elements to build interactive applications[1,3].
    
 #### Using:
    To use Tkinter, we need to import it into our Python script using __import tkinter__.
 Then, we can create GUI elements like windows, frames, buttons, labels, and canvas using
-various Tkinter classes and methods.
-
- 
+various Tkinter classes and methods[1].
+   The functions and commands that I use in my program:[2]
+   1. __from tkinter import__: to imports all functions from the Tkinter module.
+   2. __from tkinter import ttk__: to imports the themed widget which provides the tabs.
+   3. __title()__: to sets the title of the main window.
+   4. __ttk.Notebook()__: to creates a Notebook widget.
+   5. __add(tab)__: to adds the tab frame.
+   6. __Canvas()__: to creates a canvas widget, I used it to fill a colour in the tab.
+   7. __fps__: to sets the frequency of the animation frame, I used it to control the
+speed of the moving text.
+   8. __shift()__: to start shifting of the animation.
+   9. __canvas.create_text__: to creates a text object on the canvas.
+   10. __Button()__: to creates a button widget.
+   In summary, I use Tkinter to create a GUI application for displaying moving text and
+allowing the users to edit the text. The application consists of two tabs: __Display__
+and __Text__. In the __Display__ tab, a canvas displays a text ("Happy Valentine's Day!")
+by default and the text moves horizontally across the screen. In the __Text__ tab, the
+users can iput the new text using a multi-line text entry widget and click an __Edit__
+button to update the displayed text on the canvas.
+   The application utilizes Tkinter's __Canvas__, __Notebook__, __Frame__, __Text__, and
+ __Button__ widgets for the user interface components.
 
 ### 3.Functionalities of Tkinter:
    + Creating windows and frames
