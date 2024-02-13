@@ -12,8 +12,10 @@ a standard GUI (Graphical User Interface) toolkit in Python.
 1. Ensure you have Python installed on your system.
 2. Copy the provided file, __pyea1.py__, to your directory or copy the code from this file
    into a Python file, for example, moving_text.py.
+   ![folder](image/folder.png)
 3. Execute the Python file using the command python pyea1.py or python _<file name.py>_
    in your terminal.
+   ![execute](image/execute.png)
    
 ### 3. Purpose of the Program
    The program serves the purpose of displaying a moving text animation in a GUI window.
@@ -28,13 +30,18 @@ with the limited space.
    User can input a new text in the text entry field provided in the __"Text"__ tab.
 After entering the desired text, the user clicks the __"Edit"__ button to update
 the displayed text.
+   ![input](image/input.png)
   
 #### Sample Output:
    Initially, the program displays the text "Happy Valentine's Day!" moving horizontally
 across the window.
+   ![default](image/default.png)
+   
    If the user edits the text to "Welcome to CS2613" and clicks the "Edit" button,
 the displayed text will change accordingly, and the animation will continue with
 the updated text.
+   ![output](image/output.png)
+
    The text continues to move from right to left until the program is closed.
 This program provides a simple interactive interface for displaying and editing text in
 a graphical environment.
