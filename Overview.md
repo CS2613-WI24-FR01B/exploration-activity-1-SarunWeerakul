@@ -7,7 +7,7 @@
 
 ### 2.What is Tkinter?
    Tkinter is a standard GUI(Graphical User Interface) toolkit in Python. It provides
-a fast and easy way to create desktop applications with graphical interfaces.
+a fast and easy way to create desktop applications with graphical interfaces[1].
 
 #### Purpose:
    Tkinter serves the purpose of creating graphical user interfaces for Python
@@ -30,6 +30,7 @@ various Tkinter classes and methods.
    + Organizing widgets using layout managers like grid, pack, and place
    
  __Example:__
+ 
 ```python
 import tkinter as tk
 
@@ -47,11 +48,12 @@ button.pack()
 root.mainloop()
 ```
  __Output:__
+ 
 ![sample_image](sample_image.png)
 
 ### 4.Create Date
    Tkinter has been part of Python's standard library since the early versions of Python.
-It has been actively developed and maintained over the years.
+It has been actively developed and maintained over the years[3].
 
 ### 5.Why Tkinter?
    Tkinter is selected because it is a built-in library, making it readily available for
@@ -72,7 +74,8 @@ and anyone who looking for a simple solution for creating desktop applications.
 complexity GUIs due to its reliability and ease of use. However, for more advanced and
 feature-rich applications, exploring other GUI libraries might be necessary. 
    
-## References
-  1. https://docs.python.org/3/library/tkinter.html
-  2. https://www.tutorialspoint.com/python/python_gui_programming.htm
+## References:
+  [1] https://docs.python.org/3/library/tkinter.html
+  [2] https://www.tutorialspoint.com/python/python_gui_programming.htm
+  [3] https://subscription.packtpub.com/book/programming/9781788835886/1/ch01lvl1sec10/introducing-tkinter-and-tk
 
