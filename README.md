@@ -1,13 +1,13 @@
 //[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/FJiO-WNb)
 # EA1
 
-# MovingText Program
+## MovingText Program
 
-# 1. Demonstrated Package/Library
+### 1. Demonstrated Package/Library
   The sample program demonstrates the usage of the tkinter library,
   which is a standard GUI (Graphical User Interface) toolkit in Python.
 
-# 2. Running the Program
+### 2. Running the Program
   To run the program:
   1. Ensure you have Python installed on your system.
   2. Copy the provided file, pyea1.py, to your directory or copy the code from this file
@@ -15,13 +15,13 @@
   3. Execute the Python file using the command python pyea1.py or python <file_name.py>
      in your terminal.
    
-# 3. Purpose of the Program
+### 3. Purpose of the Program
   The program serves the purpose of displaying a moving text animation in a GUI window.
   It allows users to view a predefined text ("Happy Valentine's Day!") moving
   horizontally across the window continuously. Additionally, it provides functionality
   to edit the displayed text through an input tab.
 
-# 4. Sample Input/Output
+### 4. Sample Input/Output
   Sample Input:
   User can input a new text in the text entry field provided in the "Text" tab.
   After entering the desired text, the user clicks the "Edit" button to update
