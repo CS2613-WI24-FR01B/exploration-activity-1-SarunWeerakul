@@ -3,9 +3,11 @@
 ## Package/Library Ovierview
 
 ### 1.Selected Package/Library
+
    The selected package/library is __Tkinter__.
 
 ### 2.What is Tkinter?
+
    Tkinter is a standard GUI(Graphical User Interface) toolkit in Python. It provides
 a fast and easy way to create desktop applications with graphical interfaces[1].
 
@@ -43,6 +45,7 @@ button to update the displayed text on the canvas.
  __Button__ widgets for the user interface components.
 
 ### 3.Functionalities of Tkinter:
+
    + Creating windows and frames
    + Adding buttons, labels, text entry widgets, and other GUI elements
    + Handling user events like button clicks and key presses
@@ -73,21 +76,25 @@ root.mainloop()
 ![sample_image](image/sample_image.png)
 
 ### 4.Create Date
+
    Tkinter has been part of Python's standard library since the early versions of Python.
 It has been actively developed and maintained over the years[3].
 
 ### 5.Why Tkinter?
+
    Tkinter is selected because it is a built-in library, making it readily available for
 all Python installations without the need for additional installations. Additionally,
 Tkinter provides a simple and easy-to-use interface for creating GUI applications,
 making it suitable for beginners.
 
 ### 6.Influence on Learning
+
    Learning Tkinter has provided insights into GUI development in Python and enhanced
 understanding of event-driven programming concepts. It has expanded my skills in building
 interactive applications and provided a foundation for exploring other GUI libraries.
 
 ### 7.Overall Experience
+
    Tkinter offers a smooth learning curve and comprehensive documentation, making it easy
 to get started with GUI development in Python. I would recommend Tkinter to beginners
 and anyone who looking for a simple solution for creating desktop applications.
@@ -97,6 +104,7 @@ complexity GUIs due to its reliability and ease of use. However, for more advanc
 feature-rich applications, exploring other GUI libraries might be necessary. 
    
 ## References:
+
   [1] https://docs.python.org/3/library/tkinter.html
   
   [2] https://www.tutorialspoint.com/python/python_gui_programming.htm
