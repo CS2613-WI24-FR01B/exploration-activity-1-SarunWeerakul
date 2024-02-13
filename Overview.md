@@ -49,7 +49,7 @@ root.mainloop()
 ```
  __Output:__
  
-![sample_image](sample_image.png)
+![sample_image](image/sample_image.png)
 
 ### 4.Create Date
    Tkinter has been part of Python's standard library since the early versions of Python.

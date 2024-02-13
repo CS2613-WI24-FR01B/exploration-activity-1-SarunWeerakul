@@ -17,9 +17,11 @@ a standard GUI (Graphical User Interface) toolkit in Python.
    
 ### 3. Purpose of the Program
    The program serves the purpose of displaying a moving text animation in a GUI window.
-It allows users to view a predefined text ("Happy Valentine's Day!") moving horizontally
-across the window continuously. Additionally, it provides functionality to edit
-the displayed text through an input tab.
+It allows users to view a predefined text ("Happy Valentine's Day!") as an example moving
+horizontally across the window continuously. Additionally, it provides functionality to
+edit the displayed text through an input tab. In term of using in real life, we can use
+this application to display an advertisement, a caution, or any message in a the screen
+with the limited space.
 
 ### 4. Sample Input/Output
 #### Sample Input:
