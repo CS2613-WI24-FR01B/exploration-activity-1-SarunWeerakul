@@ -10,9 +10,9 @@ a standard GUI (Graphical User Interface) toolkit in Python.
 ### 2. Running the Program
    To run the program:
 1. Ensure you have Python installed on your system.
-2. Copy the provided file, _pyea1.py_, to your directory or copy the code from this file
+2. Copy the provided file, __pyea1.py__, to your directory or copy the code from this file
    into a Python file, for example, moving_text.py.
-3. Execute the Python file using the command python pyea1.py or python <file_name.py>
+3. Execute the Python file using the command python pyea1.py or python _<file name.py>_
    in your terminal.
    
 ### 3. Purpose of the Program
@@ -22,12 +22,12 @@ across the window continuously. Additionally, it provides functionality to edit
 the displayed text through an input tab.
 
 ### 4. Sample Input/Output
-  __Sample Input:__
-   User can input a new text in the text entry field provided in the _"Text"_ tab.
-After entering the desired text, the user clicks the _"Edit"_ button to update
+#### Sample Input:
+   User can input a new text in the text entry field provided in the __"Text"__ tab.
+After entering the desired text, the user clicks the __"Edit"__ button to update
 the displayed text.
   
-  __Sample Output:__
+#### Sample Output:
    Initially, the program displays the text "Happy Valentine's Day!" moving horizontally
 across the window.
    If the user edits the text to "Welcome to CS2613" and clicks the "Edit" button,
