@@ -18,6 +18,7 @@ other GUI elements to build interactive applications[1,3].
    To use Tkinter, we need to import it into our Python script using __import tkinter__.
 Then, we can create GUI elements like windows, frames, buttons, labels, and canvas using
 various Tkinter classes and methods[1].
+
    The functions and commands that I use in my program:[2]
    1. __from tkinter import__: to imports all functions from the Tkinter module.
    2. __from tkinter import ttk__: to imports the themed widget which provides the tabs.
@@ -30,12 +31,14 @@ speed of the moving text.
    8. __shift()__: to start shifting of the animation.
    9. __canvas.create_text__: to creates a text object on the canvas.
    10. __Button()__: to creates a button widget.
+   
    In summary, I use Tkinter to create a GUI application for displaying moving text and
 allowing the users to edit the text. The application consists of two tabs: __Display__
 and __Text__. In the __Display__ tab, a canvas displays a text ("Happy Valentine's Day!")
 by default and the text moves horizontally across the screen. In the __Text__ tab, the
 users can iput the new text using a multi-line text entry widget and click an __Edit__
 button to update the displayed text on the canvas.
+
    The application utilizes Tkinter's __Canvas__, __Notebook__, __Frame__, __Text__, and
  __Button__ widgets for the user interface components.
 
@@ -88,12 +91,15 @@ interactive applications and provided a foundation for exploring other GUI libra
    Tkinter offers a smooth learning curve and comprehensive documentation, making it easy
 to get started with GUI development in Python. I would recommend Tkinter to beginners
 and anyone who looking for a simple solution for creating desktop applications.
+
    Personally, I would continue using Tkinter for projects requiring simple to moderate
 complexity GUIs due to its reliability and ease of use. However, for more advanced and
 feature-rich applications, exploring other GUI libraries might be necessary. 
    
 ## References:
   [1] https://docs.python.org/3/library/tkinter.html
+  
   [2] https://www.tutorialspoint.com/python/python_gui_programming.htm
+  
   [3] https://subscription.packtpub.com/book/programming/9781788835886/1/ch01lvl1sec10/introducing-tkinter-and-tk
 
