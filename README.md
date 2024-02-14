@@ -12,6 +12,9 @@ a standard GUI (Graphical User Interface) toolkit in Python.
 
    To run the program:
 1. Ensure you have Python installed on your system.
+
+   To install Python, follow this [Link to Python website](https://www.python.org/).
+
 2. Copy the provided file, __pyea1.py__, to your directory or copy the code from this file
    into a Python file, for example, moving_text.py.
    
